@@ -1,0 +1,190 @@
+Problem,Scale_N,Solver,Metric,Time_ms,Audit_Status
+MaxCut,10,Greedy Local Search,1036.0,1.64,PASS
+MaxCut,10,Simulated Annealing,942.0,53.97,PASS
+MaxCut,10,Vectorized SB (200 parallel),1036.0,54.74,PASS
+NPP,10,Greedy Local Search,8204935328659,1.47,PASS
+NPP,10,Simulated Annealing,29924749271561,50.11,PASS
+NPP,10,Vectorized SB (200 parallel),4598459331545,60.7,PASS
+MIS,10,Greedy Local Search,4,1.38,PASS
+MIS,10,Simulated Annealing,4,52.33,PASS
+MIS,10,Vectorized SB (200 parallel),4,51.53,PASS
+MaxCut,20,Greedy Local Search,3946.0,3.0,PASS
+MaxCut,20,Simulated Annealing,3919.0,102.97,PASS
+MaxCut,20,Vectorized SB (200 parallel),3946.0,93.25,PASS
+NPP,20,Greedy Local Search,826548340303,2.19,PASS
+NPP,20,Simulated Annealing,21778561495137,111.96,PASS
+NPP,20,Vectorized SB (200 parallel),10152414656285,96.06,PASS
+MIS,20,Greedy Local Search,8,3.04,PASS
+MIS,20,Simulated Annealing,8,97.22,PASS
+MIS,20,Vectorized SB (200 parallel),8,79.72,PASS
+MaxCut,30,Greedy Local Search,8459.0,8.24,PASS
+MaxCut,30,Simulated Annealing,7843.0,155.85,PASS
+MaxCut,30,Vectorized SB (200 parallel),8459.0,142.77,PASS
+NPP,30,Greedy Local Search,731148955978,7.8,PASS
+NPP,30,Simulated Annealing,16943490634044,146.62,PASS
+NPP,30,Vectorized SB (200 parallel),4091280288278,132.67,PASS
+MIS,30,Greedy Local Search,9,4.02,PASS
+MIS,30,Simulated Annealing,9,145.63,PASS
+MIS,30,Vectorized SB (200 parallel),9,119.78,PASS
+MaxCut,40,Greedy Local Search,14577.0,13.94,PASS
+MaxCut,40,Simulated Annealing,14190.0,202.78,PASS
+MaxCut,40,Vectorized SB (200 parallel),14577.0,210.0,PASS
+NPP,40,Greedy Local Search,77669971232,5.5,PASS
+NPP,40,Simulated Annealing,5577991074,264.07,PASS
+NPP,40,Vectorized SB (200 parallel),2247081768046,193.48,PASS
+MIS,40,Greedy Local Search,10,9.2,PASS
+MIS,40,Simulated Annealing,11,226.94,PASS
+MIS,40,Vectorized SB (200 parallel),9,177.65,PASS
+MaxCut,50,Greedy Local Search,22386.0,12.61,PASS
+MaxCut,50,Simulated Annealing,22473.0,544.87,PASS
+MaxCut,50,Vectorized SB (200 parallel),22473.0,316.98,PASS
+NPP,50,Greedy Local Search,123925836067,6.98,PASS
+NPP,50,Simulated Annealing,43931770489647,340.1,PASS
+NPP,50,Vectorized SB (200 parallel),29153412158277,324.28,PASS
+MIS,50,Greedy Local Search,13,47.14,PASS
+MIS,50,Simulated Annealing,13,852.24,PASS
+MIS,50,Vectorized SB (200 parallel),11,419.15,PASS
+MaxCut,60,Greedy Local Search,31814.0,27.75,PASS
+MaxCut,60,Simulated Annealing,31814.0,353.66,PASS
+MaxCut,60,Vectorized SB (200 parallel),31814.0,467.98,PASS
+NPP,60,Greedy Local Search,118134396435,6.75,PASS
+NPP,60,Simulated Annealing,21190031718713,294.1,PASS
+NPP,60,Vectorized SB (200 parallel),137937079082223,437.03,PASS
+MIS,60,Greedy Local Search,13,7.67,PASS
+MIS,60,Simulated Annealing,13,2644.31,PASS
+MIS,60,Vectorized SB (200 parallel),0,1712.81,FAIL
+MaxCut,70,Greedy Local Search,42912.0,150.22,PASS
+MaxCut,70,Simulated Annealing,41961.0,3592.77,PASS
+MaxCut,70,Vectorized SB (200 parallel),42938.0,2270.68,PASS
+NPP,70,Greedy Local Search,155846341796,37.34,PASS
+NPP,70,Simulated Annealing,3948971132624,1541.74,PASS
+NPP,70,Vectorized SB (200 parallel),261312754521666,1317.3,PASS
+MIS,70,Greedy Local Search,13,115.02,PASS
+MIS,70,Simulated Annealing,15,2933.67,PASS
+MIS,70,Vectorized SB (200 parallel),10,526.55,PASS
+MaxCut,80,Greedy Local Search,55485.0,38.8,PASS
+MaxCut,80,Simulated Annealing,54623.0,384.01,PASS
+MaxCut,80,Vectorized SB (200 parallel),55824.0,738.09,PASS
+NPP,80,Greedy Local Search,309483395322,9.69,PASS
+NPP,80,Simulated Annealing,2335535499894,405.17,PASS
+NPP,80,Vectorized SB (200 parallel),30065666322338,788.5,PASS
+MIS,80,Greedy Local Search,14,9.76,PASS
+MIS,80,Simulated Annealing,14,396.37,PASS
+MIS,80,Vectorized SB (200 parallel),0,788.03,FAIL
+MaxCut,90,Greedy Local Search,69858.0,26.66,PASS
+MaxCut,90,Simulated Annealing,68173.0,408.12,PASS
+MaxCut,90,Vectorized SB (200 parallel),69858.0,592.66,PASS
+NPP,90,Greedy Local Search,332812749731,9.07,PASS
+NPP,90,Simulated Annealing,17651434455589,396.35,PASS
+NPP,90,Vectorized SB (200 parallel),510308109365,660.53,PASS
+MIS,90,Greedy Local Search,16,11.56,PASS
+MIS,90,Simulated Annealing,15,458.01,PASS
+MIS,90,Vectorized SB (200 parallel),10,601.06,PASS
+MaxCut,100,Greedy Local Search,85087.0,29.69,PASS
+MaxCut,100,Simulated Annealing,84457.0,502.49,PASS
+MaxCut,100,Vectorized SB (200 parallel),85087.0,1236.78,PASS
+NPP,100,Greedy Local Search,208543989819,10.75,PASS
+NPP,100,Simulated Annealing,8348723583119,475.4,PASS
+NPP,100,Vectorized SB (200 parallel),42336949764551,1447.27,PASS
+MIS,100,Greedy Local Search,15,15.18,PASS
+MIS,100,Simulated Annealing,16,446.52,PASS
+MIS,100,Vectorized SB (200 parallel),0,941.51,FAIL
+MaxCut,120,Greedy Local Search,121107.0,43.78,PASS
+MaxCut,120,Simulated Annealing,120130.0,563.83,PASS
+MaxCut,120,Vectorized SB (200 parallel),121263.0,1241.49,PASS
+NPP,120,Greedy Local Search,353454746660,12.06,PASS
+NPP,120,Simulated Annealing,3704785330904,593.13,PASS
+NPP,120,Vectorized SB (200 parallel),174608630288874,1019.86,PASS
+MIS,120,Greedy Local Search,17,16.26,PASS
+MIS,120,Simulated Annealing,16,541.27,PASS
+MIS,120,Vectorized SB (200 parallel),10,880.94,PASS
+MaxCut,140,Greedy Local Search,164280.0,49.39,PASS
+MaxCut,140,Simulated Annealing,162293.0,725.7,PASS
+MaxCut,140,Vectorized SB (200 parallel),164787.0,1632.52,PASS
+NPP,140,Greedy Local Search,22787890266,15.23,PASS
+NPP,140,Simulated Annealing,3663912349204,700.29,PASS
+NPP,140,Vectorized SB (200 parallel),10671789825296,1883.21,PASS
+MIS,140,Greedy Local Search,15,20.26,PASS
+MIS,140,Simulated Annealing,18,637.28,PASS
+MIS,140,Vectorized SB (200 parallel),0,1348.39,FAIL
+MaxCut,160,Greedy Local Search,213819.0,70.51,PASS
+MaxCut,160,Simulated Annealing,211916.0,791.04,PASS
+MaxCut,160,Vectorized SB (200 parallel),214081.0,1792.81,PASS
+NPP,160,Greedy Local Search,171657193565,19.01,PASS
+NPP,160,Simulated Annealing,11995564142077,733.49,PASS
+NPP,160,Vectorized SB (200 parallel),38855057987271,1802.44,PASS
+MIS,160,Greedy Local Search,16,22.47,PASS
+MIS,160,Simulated Annealing,17,805.43,PASS
+MIS,160,Vectorized SB (200 parallel),8,1661.08,PASS
+MaxCut,180,Greedy Local Search,269041.0,62.65,PASS
+MaxCut,180,Simulated Annealing,267196.0,806.55,PASS
+MaxCut,180,Vectorized SB (200 parallel),268913.0,1920.05,PASS
+NPP,180,Greedy Local Search,2746954216,22.24,PASS
+NPP,180,Simulated Annealing,4198596303682,827.01,PASS
+NPP,180,Vectorized SB (200 parallel),150850133930712,1700.24,PASS
+MIS,180,Greedy Local Search,17,26.18,PASS
+MIS,180,Simulated Annealing,18,834.52,PASS
+MIS,180,Vectorized SB (200 parallel),8,1464.31,PASS
+MaxCut,200,Greedy Local Search,330667.0,69.85,PASS
+MaxCut,200,Simulated Annealing,328182.0,1011.0,PASS
+MaxCut,200,Vectorized SB (200 parallel),331257.0,2131.49,PASS
+NPP,200,Greedy Local Search,34113379320,24.05,PASS
+NPP,200,Simulated Annealing,2315589603716,978.58,PASS
+NPP,200,Vectorized SB (200 parallel),233010926543624,1889.21,PASS
+MIS,200,Greedy Local Search,17,51.42,PASS
+MIS,200,Simulated Annealing,19,898.71,PASS
+MIS,200,Vectorized SB (200 parallel),8,3143.96,PASS
+MaxCut,250,Greedy Local Search,513611.0,387.73,PASS
+MaxCut,250,Simulated Annealing,512286.0,4802.58,PASS
+MaxCut,250,Vectorized SB (200 parallel),506350.0,4357.17,PASS
+NPP,250,Greedy Local Search,24443781366,31.0,PASS
+NPP,250,Simulated Annealing,2215782612194,1203.98,PASS
+NPP,250,Vectorized SB (200 parallel),247773396655368,2341.05,PASS
+MIS,250,Greedy Local Search,17,36.32,PASS
+MIS,250,Simulated Annealing,19,9693.07,PASS
+MIS,250,Vectorized SB (200 parallel),0,6710.36,FAIL
+MaxCut,300,Greedy Local Search,732819.0,1145.29,PASS
+MaxCut,300,Simulated Annealing,729483.0,16166.38,PASS
+MaxCut,300,Vectorized SB (200 parallel),731961.0,10947.82,PASS
+NPP,300,Greedy Local Search,6140497006,276.22,PASS
+NPP,300,Simulated Annealing,2222793686236,10494.83,PASS
+NPP,300,Vectorized SB (200 parallel),235767429632806,2889.8,PASS
+MIS,300,Greedy Local Search,19,50.04,PASS
+MIS,300,Simulated Annealing,20,1325.53,PASS
+MIS,300,Vectorized SB (200 parallel),8,2477.05,PASS
+MaxCut,350,Greedy Local Search,992327.0,177.98,PASS
+MaxCut,350,Simulated Annealing,988338.0,1781.05,PASS
+MaxCut,350,Vectorized SB (200 parallel),955549.0,3956.17,PASS
+NPP,350,Greedy Local Search,24787067947,46.35,PASS
+NPP,350,Simulated Annealing,2871446143117,1765.16,PASS
+NPP,350,Vectorized SB (200 parallel),24191013103815,3616.14,PASS
+MIS,350,Greedy Local Search,20,109.02,PASS
+MIS,350,Simulated Annealing,22,1597.74,PASS
+MIS,350,Vectorized SB (200 parallel),6,3106.88,PASS
+MaxCut,400,Greedy Local Search,1290531.0,203.27,PASS
+MaxCut,400,Simulated Annealing,1281574.0,1937.96,PASS
+MaxCut,400,Vectorized SB (200 parallel),1246112.0,5005.49,PASS
+NPP,400,Greedy Local Search,70804393875,44.58,PASS
+NPP,400,Simulated Annealing,3250115755469,1999.56,PASS
+NPP,400,Vectorized SB (200 parallel),19826147050249,3908.25,PASS
+MIS,400,Greedy Local Search,20,62.23,PASS
+MIS,400,Simulated Annealing,21,2015.35,PASS
+MIS,400,Vectorized SB (200 parallel),0,3352.91,FAIL
+MaxCut,450,Greedy Local Search,1627336.0,277.52,PASS
+MaxCut,450,Simulated Annealing,1622725.0,2942.03,PASS
+MaxCut,450,Vectorized SB (200 parallel),1593683.0,5178.48,PASS
+NPP,450,Greedy Local Search,4752090110,56.77,PASS
+NPP,450,Simulated Annealing,3948741502390,2519.93,PASS
+NPP,450,Vectorized SB (200 parallel),418160211100906,4803.98,PASS
+MIS,450,Greedy Local Search,19,75.74,PASS
+MIS,450,Simulated Annealing,21,2298.07,PASS
+MIS,450,Vectorized SB (200 parallel),3,3970.22,PASS
+MaxCut,500,Greedy Local Search,1999184.0,302.33,PASS
+MaxCut,500,Simulated Annealing,1995002.0,2675.91,PASS
+MaxCut,500,Vectorized SB (200 parallel),1999172.0,5754.94,PASS
+NPP,500,Greedy Local Search,20158894901,83.3,PASS
+NPP,500,Simulated Annealing,4031433076629,2780.71,PASS
+NPP,500,Vectorized SB (200 parallel),72411272070215,18804.78,PASS
+MIS,500,Greedy Local Search,21,618.19,PASS
+MIS,500,Simulated Annealing,23,12337.57,PASS
+MIS,500,Vectorized SB (200 parallel),4,3974.1,PASS
